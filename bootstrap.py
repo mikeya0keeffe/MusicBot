@@ -27,6 +27,10 @@ Print the command beforehand just so they know whats happening
 When the script runs the user should be greeted with some text and a press [enter/whatever] to continue prompt
 '''
 
+'''
+Getting a new line in!
+'''
+
 from __future__ import print_function
 
 import os
